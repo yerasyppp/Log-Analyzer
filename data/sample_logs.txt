@@ -1,0 +1,16 @@
+2026-01-01 10:15:30 INFO System boot initiated
+2026-01-01 10:15:32 ERROR Failed to connect to database
+2026-01-01 10:15:35 INFO Service started successfully
+2026-01-01 10:16:01 WARNING Low memory detected on node 1
+2026-01-01 10:17:45 DEBUG Retrying database connection (attempt 1)
+2026-01-01 10:17:50 DEBUG Retrying database connection (attempt 2)
+2026-01-01 10:18:10 CRITICAL System crash: out of memory
+2026-01-01 10:25:00 INFO System reboot initiated
+2026-01-01 10:25:05 INFO Database connection established
+2026-01-02 08:00:00 INFO Daily backup started
+2026-01-02 08:15:22 WARNING Backup taking longer than expected
+2026-01-02 08:30:00 INFO Daily backup completed
+2026-01-02 14:20:15 ERROR API rate limit exceeded for user 405
+2026-01-02 14:21:00 DEBUG Throttling requests for user 405
+2026-01-03 09:12:00 CRITICAL Unauthorized access attempt detected
+2026-01-03 09:12:05 INFO Security protocol activated
