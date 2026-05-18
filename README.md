@@ -1,4 +1,4 @@
-# Log Analyzer System (Case 5)
+# Log Analyzer System
 
 ## 1. Project Description
 A comprehensive, console-based Log Analyzer application built with Python. This project demonstrates advanced Python programming concepts, including Object-Oriented Programming (OOP), lazy evaluation, regular expressions, and higher-order functions. 
@@ -14,7 +14,7 @@ Follow these steps to run the application on your local machine:
 
 **Step 1: Clone the repository**
 ```bash
-git clone [https://github.com/yerasyppp/log-analyzer.git](https://github.com/yerasyppp/log-analyzer.git)
+git clone https://github.com/yerasyppp/Log-Analyzer
 cd log-analyzer
 ```
 **Step 2: Run the main application** 
